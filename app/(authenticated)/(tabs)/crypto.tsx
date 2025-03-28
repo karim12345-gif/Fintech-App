@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native';
 import React from 'react';
 
-const Help = () => {
+const crypto = () => {
   return (
     <View>
-      <Text>Help</Text>
+      <Text>crypto</Text>
     </View>
   );
 };
 
-export default Help;
+export default crypto;

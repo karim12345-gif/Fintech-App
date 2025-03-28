@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native';
 import React from 'react';
 
-const Help = () => {
+const transfer = () => {
   return (
     <View>
-      <Text>Help</Text>
+      <Text>transfer</Text>
     </View>
   );
 };
 
-export default Help;
+export default transfer;

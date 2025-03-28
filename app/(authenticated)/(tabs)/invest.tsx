@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native';
 import React from 'react';
 
-const Help = () => {
+const Invest = () => {
   return (
     <View>
-      <Text>Help</Text>
+      <Text>invest</Text>
     </View>
   );
 };
 
-export default Help;
+export default Invest;

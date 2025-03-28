@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native';
 import React from 'react';
 
-const Help = () => {
+const lifeStyle = () => {
   return (
     <View>
-      <Text>Help</Text>
+      <Text>lifeStyle</Text>
     </View>
   );
 };
 
-export default Help;
+export default lifeStyle;
