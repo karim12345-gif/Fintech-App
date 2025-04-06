@@ -22,7 +22,7 @@ const CustomHeader = () => {
           },
         ]}
       >
-        <Link href={''} asChild>
+        <Link href={'/(authenticated)/(modals)/account'} asChild>
           <TouchableOpacity
             style={{
               width: 40,
@@ -33,7 +33,7 @@ const CustomHeader = () => {
               alignItems: 'center',
             }}
           >
-            <Text style={{ color: '#fff', fontWeight: '500', fontSize: 16 }}>SG</Text>
+            <Text style={{ color: '#fff', fontWeight: '500', fontSize: 16 }}>KM</Text>
           </TouchableOpacity>
         </Link>
         <View style={styles.searchSection}>
